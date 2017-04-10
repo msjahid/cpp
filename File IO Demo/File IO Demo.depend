@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1491796476 source:/home/msjahid/cpp/File IO Demo/main.cpp
+	<iostream>
+	<fstream>
+
